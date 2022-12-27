@@ -1,24 +1,30 @@
-### Welcome 👋
-
-**Greetings, fellow human ✨(or robot, I don't discriminate)!✨ My name is Emmanuel, and I am a third-year computer science student at Wilfrid Laurier University** 
-
-- 🔭 I’m currently working on:
-
-### Day Navigator
-This web application allows users to create and store notes for themselves. Features include the ability to organize notes into categories or tags, search for specific notes, set email notifications, and share notes with others. The goal of the project is to provide a convenient way for users to keep track of important information and tasks.
-
-### ToDoList
--
-
-### Mentorstu Newsletter Signup
-This project is a web application designed for clients of www.mentorstu.com, my tutoring site. Upon signing up, clients are redirected to the newsletter page where they can opt in to receive newsletters via the Mailchimp API. The goal of the project is to provide a seamless and effective way for clients to stay informed about updates and offerings from Mentorstu.
-
-- 🌱 I’m currently learning ...
-
-Fullstack Web Development, React.js and MongoDB
+<h1 align="center">Hi 👋, I'm <a href="https://emanakin.github.io/CSS-Website/" target="blank">
+Emmanuel</a></h1>
+<h3 align="center">I like to try new things &#127470;&#127475</h3>
 
 
-- 📫 How to reach me: ...
-📥emmanuelakinlosotu12@gmail.com
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
+# Project Highlight: Day Navigator
+If you're someone who values organization and wants a simple and effective way to keep track of your daily activities, this website is for you. 
+Give it a try and see how it can help you stay on top of your responsibilities and never forget an important deadline again
+
+- 🔭 I’m currently working for <a href="https://www.civiconnect.ca/" target="blank">CiviConnect</a>
+
+- 🌱 I’m currently building an online tutoting buisness <a href="https://www.civiconnect.ca/" target="blank">Mentorstu</a>
+
+- 🌱 I’m currently learning Full Stack Web Development & Cloud Computing 
+
+- 📝 Read my most recent article on how ChatGPT is gonna steal my jobs! <a href="https://www.mentorstu.com/post/wilfrid-laurier-university-students-beware-chat-ais-are-coming-for-our-jobs" target="blank">here</a>
+
+- 📫 How to reach me **emmanuelakinlosotu12@gmail.com**
+
+- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+<br/>
+
+ 
+
+---
 
