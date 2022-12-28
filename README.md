@@ -12,7 +12,7 @@ Give it a try and see how it can help you stay on top of your responsibilities a
 
 - 🔭 I’m currently working for **<a href="https://www.civiconnect.ca/" target="blank">CiviConnect</a>**
 
-- 🌱 I’m currently building an online tutoting buisness **<a href="https://www.mentorstu.com/" target="blank">Mentorstu</a>**
+- 🌱 I’m currently building an online tutoring buisness **<a href="https://www.mentorstu.com/" target="blank">Mentorstu</a>**
 
 - 🌱 I’m currently learning Full Stack Web Development </a>
 
