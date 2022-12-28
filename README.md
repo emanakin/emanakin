@@ -10,14 +10,14 @@
 If you're someone who values organization and wants a simple and effective way to keep track of your daily activities, this website is for you. 
 Give it a try and see how it can help you stay on top of your responsibilities and never forget an important deadline again
 
-- 🔭 I’m currently working for <a href="https://www.civiconnect.ca/" target="blank">CiviConnect</a>
+- 🔭 I’m currently working for **<a href="https://www.civiconnect.ca/" target="blank">CiviConnect</a>**
 
-- 🌱 I’m currently building an online tutoting buisness <a href="https://www.mentorstu.com/" target="blank">Mentorstu</a>
+- 🌱 I’m currently building an online tutoting buisness **<a href="https://www.mentorstu.com/" target="blank">Mentorstu</a>**
 
 - 🌱 I’m currently learning Full Stack Web Development </a>
 
 
-- 📝 Read my most recent article on OPen AI's ChatGPT <a href="https://www.mentorstu.com/post/wilfrid-laurier-university-students-beware-chat-ais-are-coming-for-our-jobs" target="blank">here</a>
+- 📝 Read my most recent article on Open AI's ChatGPT <a href="https://www.mentorstu.com/post/wilfrid-laurier-university-students-beware-chat-ais-are-coming-for-our-jobs" target="blank">Here</a>
 
 - 📫 How to reach me **emmanuelakinlosotu12@gmail.com**
 
