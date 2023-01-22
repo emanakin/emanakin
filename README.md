@@ -20,7 +20,7 @@ If you're someone who values organization and wants a simple and effective way t
 
 - 📫 How to reach me **emmanuelakinlosotu12@gmail.com**
 
-- 📄 Know about my experiences **<a href="" target="blank">Resume</a>**
+- 📄 Know about my experiences **<a href="https://pdfhost.io/v/ZSC.ne3Us_COOP_Resume_Summer_2023" target="blank">Resume</a>**
 <br/>
 
  
