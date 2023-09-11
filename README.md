@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning Full Stack Web Development
 
 - 📫 How to reach me **akin8780@mylaurier.ca**
+  
+- 📄 Know about my experiences **<a href="https://pdfhost.io/v/ZSC.ne3Us_COOP_Resume_Summer_2023" target="blank">Resume</a>**
 
 <h3>Projects</h3>
 <hr>
@@ -36,12 +38,3 @@
   
   Heres a ink to the <a href="https://mentorstu.webflow.io/">site</a>
 </p>
-- 📄 Know about my experiences **<a href="https://pdfhost.io/v/ZSC.ne3Us_COOP_Resume_Summer_2023" target="blank">Resume</a>**
-
-
-<br/>
-
- 
-
----
-
