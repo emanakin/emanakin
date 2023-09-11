@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm <a href="https://emanakin.github.io/CSS-Website/" target="blank">Emmanuel</a></h1>
-<h3 align="center">Thanks for stopping by, here's some info about me</h3>
+
+<h3>Here's some info about me</h3>
+
+- 🔭 I’m currently working at OpenText as a Software Developer
+
+- 🌱 I’m currently learning Full Stack Web Development
+
+- 📫 How to reach me **akin8780@mylaurier.ca**
 
 <h3>Projects</h3>
 <hr>
@@ -29,14 +36,6 @@
   
   Heres a ink to the <a href="https://mentorstu.webflow.io/">site</a>
 </p>
-<hr>
-
-- 🔭 I’m currently working at OpenText as a Software Developer
-
-- 🌱 I’m currently learning Full Stack Web Development
-
-- 📫 How to reach me **akin8780@mylaurier.ca**
-
 - 📄 Know about my experiences **<a href="https://pdfhost.io/v/ZSC.ne3Us_COOP_Resume_Summer_2023" target="blank">Resume</a>**
 
 
