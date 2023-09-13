@@ -12,7 +12,9 @@
 
 <h3>Projects</h3>
 <hr>
-<h3>InternSync</h3>
+<h3>
+  <a href="https://internsync-892a159d9254.herokuapp.com/home" target="_blank" rel="noopener noreferrer">InternSync</a>
+</h3>
 <p>
    InternSync is a dynamic job application platform designed to simplify the job hunting process. Using a sophisticated recommendation algorithm, InternSync presents job opportunities tailored specifically to a     user's resume. This ensures a better match between applicant and potential employer, increasing chances of success.
    
@@ -21,7 +23,9 @@
   Heres a ink to the code <a href="https://github.com/emanakin/InternSync">repository</a>
 </p>
 <hr>
-<h3>Dat Navigator</h3>
+<h3>
+  <a href="https://day-navigator-app-6daa1f6257e8.herokuapp.com/" target="_blank" rel="noopener noreferrer">Day Navigator</a>
+</h3>
 <p>
   If you're someone who values organization and wants a simple and effective way to keep track of your daily activities, this website is for you. Give it a try and see how it can help you stay on top of your    
   responsibilities and never forget an important deadline again.
