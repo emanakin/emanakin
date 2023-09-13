@@ -35,7 +35,9 @@
   Heres a ink to the code <a href="https://github.com/emanakin/Blog-Website">repository</a>
 </p>
 <hr>
-<h3>Mentorstu</h3>
+<h3>
+  <a href="https://mentorstu.webflow.io/" target="_blank" rel="noopener noreferrer">Mentorstu</a>
+</h3>
 <p>
   Tutoring and mentorship platform, bridging the gap between eager learners and experienced professionals. By aligning students with mentors from their desired field of interest, MentorStu fosters an
   environment of tailored learning and professional guidance. 
