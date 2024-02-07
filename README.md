@@ -2,7 +2,7 @@
 
 <h3>Here's some info about me</h3>
 
-- 🔭 I’m currently working at OpenText as a Software Developer
+- 🔭 I’m currently working as a Software Developer
 
 - 🌱 I’m currently learning Full Stack Web Development
 
