@@ -16,7 +16,7 @@
 <p>
   A platform designed to simplify and organize at-home care for the elderly, tailored for the Niagara region. Elderly Ease provides features such as caregiver-care recipient matching, tailored scheduling, automated invoicing, and SMS/email reminders to ensure seamless and effective care management.
   
-  The repositories are the first 2 bellow! (ontario care connect)
+  The repositories are the first 2 below↓ (ontario care connect)
 </p>
 
 
